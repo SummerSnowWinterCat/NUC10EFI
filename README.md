@@ -1,0 +1,4 @@
+# NUC10EFI
+OPENCORE 0.5.9
+Catalina10.15.5
+EFI
