@@ -1,6 +1,11 @@
-# NUC10EFI
-hackintosh tools 是辅助工具包
+# NUC10EFI Hackintosh Catalina10.15
+hackintosh tools 是工具包 <br>
 
-NUCi5 OlD 旧版opencore和EFI
-NUCi5 New 新版opencore和EFI （有网友说i7也可以用它启动）
-推荐使用opencore6.0里面的EFI
+NUC10i5 旧版opencore和EFI <br>
+NUC10i5 New 新版opencore和EFI （有网友测试说i7也可以用它启动） <br>
+推荐使用 OpenCore 6.0里面的EFI  <br>
+
+こちらはHackintosh用のEFIであり、NUC10i5しか対応できないである。<br>
+
+对于NUC11的黑苹果 暂时手上没有机器 无法做引导文件测试<br>
+ NUC11のHackintoshについては、手元に持っていないため、テストができない、後ほどアップデートかもしれません。<br>
