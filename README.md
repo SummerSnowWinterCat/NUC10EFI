@@ -1,4 +1,5 @@
 # NUC10EFI Hackintosh Catalina10.15
+https://zhuanlan.zhihu.com/p/161165264 <- 安装方法 <br>
 hackintosh tools 是工具包 <br>
 hackintosh tools はインストールツールやいろんなツールが含めているファイルです。<br>
 
